@@ -1,3 +1,3 @@
 # Article
 
-> 1. [Selectors in css](https://vishalkatkar.hashnode.dev/selectors-in-css)
+> 1. [CSS-Flexbox](https://vishalkatkar.hashnode.dev/css-flexbox-and-its-properties)
